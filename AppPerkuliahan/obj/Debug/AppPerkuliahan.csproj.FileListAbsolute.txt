@@ -1,0 +1,40 @@
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\bin\Debug\AppPerkuliahan.exe.config
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\bin\Debug\AppPerkuliahan.exe
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\bin\Debug\AppPerkuliahan.pdb
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.csprojResolveAssemblyReference.cache
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.Form1.resources
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormKdMatkul.resources
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormMahasiswa.resources
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.Properties.Resources.resources
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.csproj.GenerateResource.Cache
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.exe
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.pdb
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormNilai.resources
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormLogin.resources
+E:\Adjie_Kurniawan\Project\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormClient.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\bin\Debug\AppPerkuliahan.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\bin\Debug\AppPerkuliahan.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\bin\Debug\AppPerkuliahan.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormClient.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormKdMatkul.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormLogin.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormMahasiswa.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormNilai.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.csproj.GenerateResource.Cache
+C:\Users\nick\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\bin\Debug\AppPerkuliahan.exe.config
+C:\Users\nick\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.exe
+C:\Users\nick\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.pdb
+C:\Users\nick\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.csprojResolveAssemblyReference.cache
+C:\Users\nick\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.Form1.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormClient.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormKdMatkul.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormLogin.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormMahasiswa.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.FormNilai.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.Properties.Resources.resources
+C:\Users\nick\Documents\Visual Studio 2013\Projects\AppPerkuliahan\AppPerkuliahan\obj\Debug\AppPerkuliahan.csproj.GenerateResource.Cache
